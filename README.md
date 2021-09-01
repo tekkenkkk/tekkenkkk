@@ -1,4 +1,4 @@
 ![Metrics](https://metrics.lecoq.io/tekken420weed)
 
 
-![](https://komarev.com/ghpvc/?username=tekken420weed&label=Odwiedzenia+Profilu)
+![](https://komarev.com/ghpvc/?username=tekken420weed&label=Odwiedzenia+Profilu:&color=gray)
