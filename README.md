@@ -1,4 +1,24 @@
-![Metrics](https://metrics.lecoq.io/tekken420weed)
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> Hi, welcome!</h1>
 
+```console
+tekken420weed@github:~$ ./welcome.sh
+```
 
-![](https://komarev.com/ghpvc/?username=tekken420weed&label=𝙿𝚁𝙾𝙵𝙸𝙻𝙴+𝚅𝙸𝙴𝚆𝚂&color=gray)
+```console
+catching bugs in code...
+                              
+       \`*-.                 
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
+```
