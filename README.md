@@ -2,7 +2,7 @@
 <h1></h1>
 
 ```console
-tekken420weed@github:~$ ./welcome.sh
+tekkekkk@github:~$ ./welcome.sh
 ```
 <h2></h2>
 
