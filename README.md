@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/-FiveM-F17F34?style=flat&logo=fivem&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Atlassian-0052CC?style=flat&logo=Atlassian&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=Brave&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SoundCloud-ff5500?style=flat&logo=SoundCloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=Bitwarden&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TeamViewer-004680?style=flat&logo=TeamViewer&logoColor=white"/>
 <br>
