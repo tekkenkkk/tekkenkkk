@@ -2,9 +2,10 @@
 <br>
 <br>
 <img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-jQuery-0865a6?style=flat&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Electron-272a37?style=flat&logo=electron&logoColor=a0ebf9"/>
 <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-026E00?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white"/>
@@ -18,8 +19,6 @@
 <img src="https://img.shields.io/badge/-FiveM-F17F34?style=flat&logo=fivem&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Atlassian-0052CC?style=flat&logo=Atlassian&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=Brave&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SoundCloud-ff5500?style=flat&logo=SoundCloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=Bitwarden&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TeamViewer-004680?style=flat&logo=TeamViewer&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
