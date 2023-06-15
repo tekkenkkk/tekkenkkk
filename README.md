@@ -18,13 +18,12 @@
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FiveM-F17F34?style=flat&logo=fivem&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Atlassian-0052CC?style=flat&logo=Atlassian&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=Brave&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TeamViewer-004680?style=flat&logo=TeamViewer&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=Arch%20Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-Discord%20%28tekken%236322%29-5865F2?style=flat&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Discord%20%28tekkenkkk%29-5865F2?style=flat&logo=discord&logoColor=white"/>
 [![Telegram](https://img.shields.io/badge/-Telegram%20%28Click%29-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ywncz)
 [![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/bigpplou/)
