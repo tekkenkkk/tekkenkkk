@@ -2,9 +2,8 @@
 <br>
 <br>
 <a href="https://tekken.dev">
-  <img src="https://tekken.dev/meow.png" alt="meow">
+    <img src="https://img.shields.io/badge/-tekken.dev-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=f5c37c"/>
 </a>
-<br>
 <br>
 <br>
 <img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
@@ -28,7 +27,7 @@
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white"/>
 <br>
 <br>
-<img src="https://img.shields.io/badge/-@tekkenkkk-5865F2?style=flat&logo=discord&logoColor=white"/>
-[![Cfx.re](https://img.shields.io/badge/-Cfx.re%20%28Click%29-F17F34?style=flat&logo=fivem&logoColor=white)](https://forum.cfx.re/u/tekkenkkk)
-[![Telegram](https://img.shields.io/badge/-Telegram%20%28Click%29-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ywncz)
-[![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/bigpplou/)
+[![Discord](https://img.shields.io/badge/-@tekkenkkk%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v2tWMWBE7q)
+[![Cfx.re](https://img.shields.io/badge/-Cfx.re%20%28Click%29-F17F34?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re/u/tekkenkkk)
+[![Telegram](https://img.shields.io/badge/-Telegram%20%28Click%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ywncz)
+[![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/bigpplou/)
