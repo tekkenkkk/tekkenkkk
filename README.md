@@ -28,6 +28,4 @@
 <br>
 <br>
 [![Discord](https://img.shields.io/badge/-@tekkenkkk%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v2tWMWBE7q)
-[![Cfx.re](https://img.shields.io/badge/-Cfx.re%20%28Click%29-F17F34?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re/u/tekkenkkk)
 [![Telegram](https://img.shields.io/badge/-Telegram%20%28Click%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ywncz)
-[![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/bigpplou/)
