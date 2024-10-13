@@ -28,4 +28,4 @@
 <br>
 <br>
 [![Discord](https://img.shields.io/badge/-Discord%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v2tWMWBE7q)
-[![Telegram](https://img.shields.io/badge/-Telegram%20%28Click%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ywncz)
+[![Telegram](https://img.shields.io/badge/-Telegram%20%28Click%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tekkenkkk)
